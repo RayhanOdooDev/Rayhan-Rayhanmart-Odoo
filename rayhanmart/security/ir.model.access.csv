@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_rayhanmart_kelompokbarang,access.rayhanmart.kelompokbarang,model_rayhanmart_kelompokbarang,,1,1,1,1
+access_rayhanmart_barang,access.rayhanmart.barang,model_rayhanmart_barang,,1,1,1,1
+access_rayhanmart_person,access.rayhanmart.person,model_rayhanmart_person,,1,1,1,1
+access_rayhanmart_kasir,access.rayhanmart.kasir,model_rayhanmart_kasir,,1,1,1,1
+access_rayhanmart_cleaningservice,access.rayhanmart.cleaningservice,model_rayhanmart_cleaningservice,,1,1,1,1
+access_rayhanmart_supplier,access.rayhanmart.supplier,model_rayhanmart_supplier,,1,1,1,1
+access_rayhanmart_penjualan,access.rayhanmart.penjualan,model_rayhanmart_penjualan,,1,1,1,1
+access_rayhanmart_detailpenjualan,access.rayhanmart.detailpenjualan,model_rayhanmart_detailpenjualan,,1,1,1,1
+access_rayhanmart_barangdatang,access.rayhanmart.barangdatang,model_rayhanmart_barangdatang,,1,1,1,1
+access_rayhanmart_penjualanreport,access.rayhanmart.penjualanreport,model_rayhanmart_penjualanreport,,1,1,1,1

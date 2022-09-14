@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <!-- Root menu-->
+    <menuitem id="rayhanmart_menu_root" 
+            name="Rayhan Mart" 
+            sequence="10"/>
+
+    <!-- This Menu Item Must have a parent -->
+    <menuitem id="rayhanmart_barang_menu_categ" 
+            name="Barang" 
+            parent="rayhanmart_menu_root" 
+            sequence="10"/>
+
+    <!-- This Menu Item Must have a parent -->
+    <menuitem id="rayhanmart_pegawai_menu_categ" 
+            name="Pegawai" 
+            parent="rayhanmart_menu_root" 
+            sequence="20"/>
+
+    <!-- This Menu Item Must have a parent -->
+    <menuitem id="rayhanmart_transaksi_menu_categ" 
+            name="Transaksi" 
+            parent="rayhanmart_menu_root" 
+            sequence="42"/>
+</odoo>
